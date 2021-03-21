@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IT 인프라 정리공간"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Suhwan Kim"
-description              : "Security Engineer"
+title                    : "IT Infra Security Blog"
+title_separator          : "&#124;"
+subtitle                 : "Knowledge Clearance Space"
+name                     : "김수환/Suhwan Kim"
+description              : "IT인프라 내 네트워크, 보안, 클라우드 등 다양한 운영환경 구성을 위한 "
 url                      : "https://suhwan156.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
