@@ -20,7 +20,7 @@ title                    : "IT 인프라 정리공간"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Suhwan Kim"
-description              : "Security Engineer, "
+description              : "Security Engineer"
 url                      : "https://suhwan156.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Suhwan Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "고오급 Security Engineer를 꿈꾸며"
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
